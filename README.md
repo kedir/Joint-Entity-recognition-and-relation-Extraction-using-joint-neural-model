@@ -36,7 +36,7 @@ The model has several parameters such as:
 * Character embeddings
 * Ner loss (softmax or CRF)
 
-that could be specified in the configuration files (see [config](https://github.com/bekou/multihead_joint_entity_relation_extraction/tree/master/configs)).
+that could be specified in the configuration files (see [config](https://github.com/kedir/Joint-Entity-recognition-and-relation-Extraction-using-joint-neural-model/tree/main/configs/CoNLL04)).
 
 ## Run the model
 
